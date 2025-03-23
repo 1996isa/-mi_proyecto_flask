@@ -50,4 +50,3 @@ USE desarrollo_web;
         id_usuario INT AUTO_INCREMENT PRIMARY KEY,
         nombre VARCHAR(255),
         mail VARCHAR(255)
-    );
